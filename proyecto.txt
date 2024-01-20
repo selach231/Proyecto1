@@ -4,4 +4,3 @@ para demostrar el manejo y funcionamiento Git.
 El proyecto esta siendo diseñado para la Fundación
 "El Angel de los Peludos". 
 
-Este proyecto se elabora en la Evidencia de Git, para el Tecnologo ADSO Cenigraf, Bogotá
